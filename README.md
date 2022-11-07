@@ -55,7 +55,9 @@ elif b > a:
 Langkah - langkah
 1. Buat programnya terlebih dahulu seperti gambar di bawah ini
 
-![Lat 2 kondisi](https://user-images.githubusercontent.com/115678171/200156616-fe15e43a-54ba-4dc3-8294-e3d51fdab268.png)
+![1](https://user-images.githubusercontent.com/115678251/200266155-2f851bbd-b582-4b79-9482-856c9e92657e.png)
+
+
 ```
 print("_____Mengurutkan bilangan dari yang terkecil ke yang terbesar_____")
 print("Masukan 3 bilangan yang akan diurutkan:")
@@ -82,19 +84,23 @@ else:
 
 2. Hasil Run
 
-![Run Lat 2 kondisi](https://user-images.githubusercontent.com/115678171/200156652-6afabd94-a261-47f7-a979-03a31c7376d6.png)
+![2](https://user-images.githubusercontent.com/115678251/200266282-f12e9cbe-9cea-41ca-8f1e-c164b4c19286.png)
+
+
 
 ## Lab 3 Perulangan
 
 ### Latihan 1
 • Buat program dengan perulangan bertingkat (nested) for yang menghasilkan output sebagai berikut:
 
-![tugas](https://user-images.githubusercontent.com/115678171/200156779-cc2eb0c1-293c-4089-84d8-7dde04482340.png)
+
 
 Langkah - langkah
 1. Buat programnya terlebih dahulu seperti gambar di bawah ini
 
-![Lat 1 perulangan](https://user-images.githubusercontent.com/115678171/200156842-e133051b-af75-49df-b5aa-a65e91fc198d.png)
+![200156842-e133051b-af75-49df-b5aa-a65e91fc198d](https://user-images.githubusercontent.com/115678251/200262134-ca2f0aa2-9477-49c8-8ee3-834e75e59cf2.png)
+
+
 ```
 for i in range(0,10):
     print()
@@ -104,7 +110,8 @@ for i in range(0,10):
 ````
 2. Hasil Run
 
-![Run lat 1 perulangan](https://user-images.githubusercontent.com/115678171/200156901-955f6dd0-e93f-4973-8440-395f6ac3d894.png)
+![200156901-955f6dd0-e93f-4973-8440-395f6ac3d894](https://user-images.githubusercontent.com/115678251/200262190-475b0f3f-6a5a-40b9-b140-9897aa18b330.png)
+
 
 ### Latihan 2
 • Tampilkan n bilangan acak yang lebih kecil dari 0.5.
@@ -116,7 +123,9 @@ for i in range(0,10):
 Langkah - langkah
 1. Buatlah programnya terlebih dahulu seperti gambar dibawah ini
 
-![Lat 2 perulangan](https://user-images.githubusercontent.com/115678171/200157018-2bb6f5dc-059b-4564-b7ae-58d539d5fa2a.png)
+![1](https://user-images.githubusercontent.com/115678251/200263247-cb5f88ca-57ab-49f1-b656-4927dd04e270.png)
+
+
 ```
 from random import random
 
@@ -129,7 +138,9 @@ for i in range(n):
 ````
 2. Hasil Run
 
-![Run lat 2 perulangan](https://user-images.githubusercontent.com/115678171/200157069-d0bacc55-3d81-4bcf-8299-85772fa52f9e.png)
+![2](https://user-images.githubusercontent.com/115678251/200263284-cfeeaa5e-1fcf-4deb-b0dc-b86c26be2d7b.png)
+
+
 
 # MODUL PRAKTIKUM 2 DAN 3
 
@@ -190,7 +201,8 @@ Langkah - langkah
 
 1. Buat program caodenya seperti gambar dibawah ini 
 
-![Lat 1 labpy03](https://user-images.githubusercontent.com/115678171/200159863-677d5faa-5969-46fb-8e14-10f5b698102e.png)
+![1](https://user-images.githubusercontent.com/115678251/200264870-5dc0b8c2-e72b-4bf1-bf19-53d64c7beec1.png)
+
 ```
 print("bilangan acak yang lebih kecil dari o.5")
 import random
@@ -206,7 +218,8 @@ print("selesai")
 ````
 2. Hasil Run 
 
-![Run lat 1 labpy03](https://user-images.githubusercontent.com/115678171/200159900-28b23a72-2eee-4711-8f8b-b1ef2eebe49b.png)
+![2](https://user-images.githubusercontent.com/115678251/200264955-63a34f76-0231-46e0-be99-ebb77666fa11.png)
+
 
 ### Latihan 2
 
@@ -242,7 +255,9 @@ Langkah - langkah
 
 1. Buatlah program code seperti gambar dibawah ini
 
-![Lat 2 labpy03](https://user-images.githubusercontent.com/115678171/200160088-30776945-8ecb-43f6-a0e0-920299103224.png)
+
+![1](https://user-images.githubusercontent.com/115678251/200265495-b6aa6a28-9f47-4f4e-897e-22c6f3df02a5.png)
+
 ```
 print("menampilkan bilangan, berhenti ketika bilangan 0, dan menampilkan bilangan terbesar")
 
@@ -258,7 +273,8 @@ print("======selesai======")
 ````
 2. Hasil Run
 
-![Run lat 2 labpy03](https://user-images.githubusercontent.com/115678171/200160147-58f2c04e-970f-4781-b34b-e4bd61d64e37.png)
+![2](https://user-images.githubusercontent.com/115678251/200265553-2b46ab02-22b4-4347-8018-4744108b6e7c.png)
+
 
 ### Program 1
 
